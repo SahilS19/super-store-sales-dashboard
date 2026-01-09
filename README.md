@@ -4,7 +4,7 @@ A **business-focused Power BI dashboard project** designed to analyze sales perf
 
 ---
 
-## 🔍 Project Summary (Recruiter-Friendly)
+## 🔍 Project Summary
 
 - Analyzed **₹1.6M+ in sales** across **22K orders**
 - Tracked **profitability, order trends, shipping performance**, and regional sales
@@ -36,7 +36,7 @@ A **business-focused Power BI dashboard project** designed to analyze sales perf
 - Interactive **map visualization** for state-wise sales
 
 📸 *Preview*  
-![Sales Dashboard](.png)
+![Sales Dashboard](sales-dashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ A **business-focused Power BI dashboard project** designed to analyze sales perf
 - Zoom & slider controls for granular analysis
 
 📸 *Preview*  
-![Sales Forecast Dashboard](.png)
+![Sales Forecast Dashboard](time-series-analysis.png)
 
 ---
 
