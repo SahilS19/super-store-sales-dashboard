@@ -72,6 +72,7 @@ A **business-focused Power BI dashboard project** designed to analyze sales perf
   <img src="https://img.shields.io/badge/Power%20BI%20Service-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAX-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-6A1B9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Modeling-2196F3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge"/>
