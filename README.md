@@ -67,11 +67,16 @@ A **business-focused Power BI dashboard project** designed to analyze sales perf
 
 ## 🛠 Tools & Technologies
 
-- **Power BI Desktop**
-- **DAX** (Measures, KPIs, YoY calculations)
-- **Power Query** (Data cleaning & transformation)
-- **Excel / CSV**
-- **Time-Series Forecasting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI%20Service-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
